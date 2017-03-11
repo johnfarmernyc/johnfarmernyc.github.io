@@ -1743,6 +1743,10 @@ p {
   line-height: 22px;
 }
 
+.contacth3.contacth3page {
+  text-align: center;
+}
+
 .learnmore {
   display: block;
   margin-top: 352px;
@@ -2177,6 +2181,14 @@ p {
 
 .mobileherobackground {
   display: none;
+}
+
+.contact-link {
+  color: #fff;
+}
+
+.contactlinkpage {
+  color: #fff;
 }
 
 html.w-mod-js *[data-ix="hero-title"] {
